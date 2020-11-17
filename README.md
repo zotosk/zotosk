@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/heroku%20-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
----
+
 <br>
 
 ![Konstantinos Zotos' github stats](https://github-readme-stats.vercel.app/api?username=zotosk&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&hide=contribs,issues)
