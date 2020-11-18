@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/code-Vue.js-informational?style=flat&logo=Vue.js&logoColor=white&color=41B883)
 ![](https://img.shields.io/badge/code-PHP-informational?style=flat&logo=php&logoColor=white&color=41B883)
 ![](https://img.shields.io/badge/code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=41B883)
-![](https://img.shields.io/badge/tool-MySql-informational?style=flat&logo=MySql&logoColor=white&color=41B883)
+![](https://img.shields.io/badge/tool-MySQL-informational?style=flat&logo=MySql&logoColor=white&color=41B883)
 ![](https://img.shields.io/badge/code-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=41B883)
 ![](https://img.shields.io/badge/code-Sass-informational?style=flat&logo=Sass&logoColor=white&color=41B883)
 ![](https://img.shields.io/badge/tool-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=41B883)
