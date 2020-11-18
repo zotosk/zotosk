@@ -3,17 +3,21 @@
 
 ### 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
-![](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
-![](https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/heroku%20-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
-![](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+
+![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=41B883)
+![](https://img.shields.io/badge/code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=41B883)
+![](https://img.shields.io/badge/code-Php-informational?style=flat&logo=php&logoColor=white&color=41B883)
+![](https://img.shields.io/badge/code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=41B883)
+![](https://img.shields.io/badge/tools-MySql-informational?style=flat&logo=MySql&logoColor=white&color=41B883)
+![](https://img.shields.io/badge/code-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=41B883)
+![](https://img.shields.io/badge/code-Sass-informational?style=flat&logo=Sass&logoColor=white&color=41B883)
+![](https://img.shields.io/badge/tool-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=41B883)
+![](https://img.shields.io/badge/code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=41B883)
+![](https://img.shields.io/badge/tool-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=41B883)
+![](https://img.shields.io/badge/code-Java-informational?style=flat&logo=Java&logoColor=white&color=41B883)
+![](https://img.shields.io/badge/tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+
 
 <br/>
 
