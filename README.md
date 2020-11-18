@@ -17,6 +17,7 @@
 ![](https://img.shields.io/badge/code-Java-informational?style=flat&logo=Java&logoColor=white&color=41B883)
 ![](https://img.shields.io/badge/tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 
 
 <br/>
