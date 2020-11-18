@@ -5,7 +5,7 @@
 
 
 ![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=41B883)
-![](https://img.shields.io/badge/code-Vue.js-informational?style=flat&logo=Vue.jss&logoColor=white&color=41B883)
+![](https://img.shields.io/badge/code-Vue.js-informational?style=flat&logo=Vue.js&logoColor=white&color=41B883)
 ![](https://img.shields.io/badge/code-PHP-informational?style=flat&logo=php&logoColor=white&color=41B883)
 ![](https://img.shields.io/badge/code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=41B883)
 ![](https://img.shields.io/badge/tool-MySql-informational?style=flat&logo=MySql&logoColor=white&color=41B883)
