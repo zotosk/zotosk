@@ -24,8 +24,6 @@
 
 ![Konstantinos Zotos' github stats](https://github-readme-stats.vercel.app/api?username=zotosk&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&hide=contribs,issues)
 
-<img src="https://wakatime.com/share/@kzotos/daf60418-48f3-4726-96b5-fb16eebc24c0.svg" height=400>
-
 <br/>
 <br/>
 <br/>
