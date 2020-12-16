@@ -19,11 +19,6 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 
-
-<br/>
-
-![Konstantinos Zotos' github stats](https://github-readme-stats.vercel.app/api?username=zotosk&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&hide=contribs,issues)
-
 <br/>
 <br/>
 <br/>
