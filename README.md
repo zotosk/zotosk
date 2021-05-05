@@ -1,7 +1,7 @@
 <!--
 **zotosk/zotosk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### 🔧 Technologies & Tools
+### 🚀 Techs & Tools
 
 
 ![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=41B883)
